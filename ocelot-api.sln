@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocelot-api", "ocelot-api\ocelot-api.csproj", "{C5250634-3F39-4853-B004-F2D7971778E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocelot-app", "ocelot-app\ocelot-app.csproj", "{C4B954CC-D205-4D14-BAB3-23B3EA506B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5250634-3F39-4853-B004-F2D7971778E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5250634-3F39-4853-B004-F2D7971778E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5250634-3F39-4853-B004-F2D7971778E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5250634-3F39-4853-B004-F2D7971778E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B954CC-D205-4D14-BAB3-23B3EA506B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B954CC-D205-4D14-BAB3-23B3EA506B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B954CC-D205-4D14-BAB3-23B3EA506B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B954CC-D205-4D14-BAB3-23B3EA506B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76160297-C30B-467D-8BFC-300D1AC037EB}
+	EndGlobalSection
+EndGlobal
